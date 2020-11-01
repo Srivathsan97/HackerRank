@@ -1,0 +1,3 @@
+#Generics_cannot_be_coded_in_Python_as_of_now
+#Hence_writing_in_C++
+#Redirect_to_C++_folder_to_find_the_solution
