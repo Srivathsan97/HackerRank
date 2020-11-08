@@ -15,4 +15,5 @@ Topic:
 2. Python If-Else
 3. Arithmetic Operators
 4. Python: Division
+5. Loops
 
