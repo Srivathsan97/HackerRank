@@ -16,4 +16,5 @@ Topic:
 3. Arithmetic Operators
 4. Python: Division
 5. Loops
+6. Write a function
 
