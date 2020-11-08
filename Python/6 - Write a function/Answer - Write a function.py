@@ -9,8 +9,11 @@ def is_leap(year):
             leap = False
     return leap
 
+#locked
 year = int(input())
 print(is_leap(year))
+#locked
+
 
 """
 Function is a block of code that contains statement(s) that are executed only when called for.
