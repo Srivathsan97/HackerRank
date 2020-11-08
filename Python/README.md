@@ -13,4 +13,5 @@ Topic:
 1. Say "Hello, World!" With Python
 
 2. Python If-Else
+3. Arithmetic Operators
 
