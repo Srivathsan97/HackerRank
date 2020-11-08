@@ -3,10 +3,12 @@ The 30 Days of Code repo provides you with both questions and the respective sol
 PS : Planning to upgrade the repor with other languages like C++, C etc.
 
 NOTE:
+
 In the HackerRank website, there may be questions which have stub code that must/can never be changed.
 Those codes are mentioned between "#locked" in the beginning and the end of the codes in Answers
 
 Eg:
+
 Day 12 : Inheritance
 
 #locked
@@ -33,6 +35,7 @@ Copying and pasting the "#locked" codes will generate error and may not compile 
 
 NOTE:
 30 Days of Code starts with Day 0 and ends with Day 29
+
 
 Topics:
 
