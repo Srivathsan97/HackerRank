@@ -11,7 +11,6 @@ My HackerRank Profile : https://www.hackerrank.com/srivathsan97?hr_r=1
 Topic:
 
 1. Say "Hello, World!" With Python
-
 2. Python If-Else
 3. Arithmetic Operators
 
