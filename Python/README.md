@@ -6,3 +6,11 @@ Apart from the solutions, the "solution" file will also contain the resources an
 On top it, will try to add all possible solutions.
 
 My HackerRank Profile : https://www.hackerrank.com/srivathsan97?hr_r=1
+
+
+Topic:
+
+1. Say "Hello, World!" With Python
+
+2. Python If-Else
+
