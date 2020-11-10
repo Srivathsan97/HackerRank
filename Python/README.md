@@ -7,7 +7,9 @@ On top it, will try to add all possible solutions.
 
 My HackerRank Profile : https://www.hackerrank.com/srivathsan97?hr_r=1
 
-NOTE: The solutions will be in Python3.0
+NOTE: 
+1. The solutions will be in Python3.0
+2. In the HackerRank website, there may be questions which have stub code that must/can never be changed. Those codes are mentioned between "#locked" in the beginning and the end of the codes in Answers
 
 Topic:
 
