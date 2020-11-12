@@ -14,4 +14,5 @@ Topic:
 5. Diagonal Difference
 6. Plus Minus
 7. Staircase
+8. Mini-Max Sum
 
